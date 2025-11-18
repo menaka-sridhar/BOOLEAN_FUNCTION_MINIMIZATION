@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+<img width="1714" height="937" alt="Screenshot 2025-11-18 211149" src="https://github.com/user-attachments/assets/ee006284-8dc6-423e-a09d-ec9eea9e063a" /># BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -34,8 +34,10 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+<img width="537" height="275" alt="image" src="https://github.com/user-attachments/assets/ca47942e-d259-468c-8b75-ad164818008d" />
 
-Developed by: RegisterNumber:*/
+Developed by:Menaka M S 
+RegisterNumber:25015729*/
 
 
 **RTL realization**
@@ -43,8 +45,10 @@ Developed by: RegisterNumber:*/
 **Output:**
 
 **RTL**
+<img width="1714" height="937" alt="Screenshot 2025-11-18 211149" src="https://github.com/user-attachments/assets/f5357dcc-df22-4671-b453-1590729de8ae" />
 
 **Timing Diagram**
+<img width="1701" height="305" alt="Screenshot 2025-11-18 211415" src="https://github.com/user-attachments/assets/1b59bf13-2b59-4c8b-a90d-083e537a7141" />
 
 **Result:**
 
